@@ -65,15 +65,18 @@ ln -s /usr/include/oracle/11.2/client64 /usr/include/oracle/11.2/client
 ```
 
 3.定义环境变量
+
 ```
 vi etc/profile
+```
 加入以下几行
-
+```
 export ORACLE_HOME=/usr/lib/oracle/11.2/client64/  
 export LD_LIBRARY_PATH=/usr/lib/oracle/11.2/client64:$LD_LIBRARY_PATH  
 export NLS_LANG="AMERICAN_AMERICA.AL32UTF8"
+```
 命令行输入以下语句使环境配置立即生效
-
+```
 #source /etc/profile
 ```
 
