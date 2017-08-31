@@ -1,7 +1,9 @@
 
 ## 简述
 
-php开发环境，需要连接oracle数据库，那么就需要配置oracle扩展。所以我们需要做的工作由：安装oracle客户端、pdo_oci扩展、oci8扩展。
+php开发环境，需要连接oracle数据库，那么就需要配置oracle扩展。
+
+所以我们需要做的工作由：安装oracle客户端、pdo_oci扩展、oci8扩展。
 
 ## 前期准备工作
 
