@@ -20,8 +20,10 @@ yum install gcc-g77
 
 * 地址：http://www.oracle.com/technetwork/topics/linuxx86-64soft-092277.html 
 * 下载文件：
+```
   （1）oracle-instantclient11.2-basic-11.2.0.4.0-1.x86_64.rpm
   （2）oracle-instantclient11.2-devel-11.2.0.4.0-1.x86_64.rpm
+```
 
 3.下载php的扩展文件（pdo_oci 和 oci8）
 
