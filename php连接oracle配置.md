@@ -134,3 +134,9 @@ oci8.default_prefetch => 100 => 100 oci8.events => Off => Off oci8.max_persisten
 ```
 
 ## 安装PDO_OCI
+
+参考网址：
+1.http://blog.csdn.net/ezsky/article/details/49766463#t2
+2.http://www.jpdou.top/install-pdo_oci-extension-on-linux-64bit/
+3.https://shiki.me/blog/installing-pdo_oci-and-oci8-php-extensions-on-centos-6-4-64bit
+4.https://www.xinweiblog.com/2016/12/07/mac%E5%92%8Clinux-%E4%B8%8B-php7-%E5%AE%89%E8%A3%85pdo-oci/
