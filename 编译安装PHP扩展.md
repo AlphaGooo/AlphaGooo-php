@@ -68,7 +68,7 @@
 6.保存php.ini后，重启php-fpm
 ```
 
- ### PHP7安装pdo_oci的坑
+ ### 「PHP7安装pdo_oci的坑」
  
  1. 首先你需要确认你安装的 oracle 版本是不是适应 PHP7，很多时候PHP7最好安装 11.2 版本的oracle，其他或许也可以，欢迎指正。
 
