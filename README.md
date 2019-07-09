@@ -4,6 +4,7 @@
  - [try异常捕抓](files/try异常捕抓.md) - 编程处理异常抛出，防止程序被中断
  - [读写Excel](files/读写Excel.md) - 借助扩展读写excel
  - [处理特殊字符](files/处理特殊字符.md) - 对于一些输入或者输出的字符，防止其含有的\n\r字符，导致一些安全问题
+ - [php设计模式](files/php设计模式.md) - 关于PHP的设计模式
  
 
 ## PHP5.6
