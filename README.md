@@ -1,4 +1,4 @@
-## AlPhaGooo-php
+## AlphaGooo-php
 
  - [常见问题处理](files/常见问题处理.md) - 一些常见的PHP问题整理
  - [try异常捕抓](files/try异常捕抓.md) - 编程处理异常抛出，防止程序被中断
@@ -6,6 +6,9 @@
  - [处理特殊字符](files/处理特殊字符.md) - 对于一些输入或者输出的字符，防止其含有的\n\r字符，导致一些安全问题
  - [php设计模式](files/php设计模式.md) - 关于PHP的设计模式
  
+## LeetCode
+
+ - [leetcode](leetcodes/201910.md) - 10月份的题目和题解
 
 ## PHP5.6
 
